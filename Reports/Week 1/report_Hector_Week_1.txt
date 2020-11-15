@@ -1,0 +1,5 @@
+This week, I worked on the implementation of Fast Fourir Transform algorithm to solve multiple between large number and polynomials.
+First, I tried to fully understand how it works and why it is so used.
+Then, I tried to implement the Cooley-Tukey alogirthm which is by far the most commonly used FFT. I have almost finished it.
+I still have to test it, as I used many new C++ functions I've never seen before (Thus I likely used them wrongly).
+For the next week, I want to finish my algorithm and maybe (If I have enough time) work with Hugo for the user interface.
